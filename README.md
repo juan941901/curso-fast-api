@@ -34,7 +34,7 @@ dependiendo el tipo de dato que estemos pasando a nuestra función es recomendab
 
 ---
 
-## Clase 2 - Creaciónde de Endpoints POST y validacion de errores
+## Clase 3 - Creaciónde de Endpoints POST y validacion de errores
 
 Para crear el end de tipo `POST` agregamos en nuestrp decorador la palabra `post`, y haciendo uso de `pydantic` podemos crear modelos(json) que recibira el endpoint.
 
